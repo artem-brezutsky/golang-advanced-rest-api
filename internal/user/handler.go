@@ -1,7 +1,7 @@
 package user
 
 import (
-	"advanced-rest-api/cmd/internal/handlers"
+	"advanced-rest-api/internal/handlers"
 	"github.com/julienschmidt/httprouter"
 	"net/http"
 )

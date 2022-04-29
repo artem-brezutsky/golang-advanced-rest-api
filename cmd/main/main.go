@@ -1,7 +1,7 @@
 package main
 
 import (
-	"advanced-rest-api/cmd/internal/user"
+	"advanced-rest-api/internal/user"
 	"github.com/julienschmidt/httprouter"
 	"log"
 	"net"
